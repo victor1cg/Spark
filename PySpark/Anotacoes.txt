@@ -1,0 +1,19 @@
+- Criei um cluster dentro do databricks;
+
+- Pyspark e' um dataframe do spark que permite a gente trabalhar com python em ambiente distribuido;
+
+- Parquet se popularizou por conta da performance em queries e tamanho pequeno
+
+- Transformar dados em informacoes; Nao faz sentido ter toda uma parte tecnica, mas estar errando na parte de negocios.
+
+3 coisas para ser bom no trabalho:
+
+ - Ser bom no trabalho
+ - Ser bom em entrevista de emprego
+ - Ser bom em negociacao de salario
+
+
+- Nao atuar somente pela parte tecnica, mas tambem a area de negocio e' importante, como a empresa ganha dinheiro,
+quais os concorrente, qual o ROI do nosso produto, onde da pra economizar. 
+um pouco do dia a dia e' reuniao com o cliente para levantar requisitos, conseguindo falar de igual para igual,
+opinando sobre o projeto, metricas e dados. 
